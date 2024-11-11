@@ -30,6 +30,7 @@ This repository contains solutions to various online judge problems implemented 
 Here are the links to the analyzed notebooks and the data structures identified:
 
 ### Segmented uvas
+
 1. [UVA484.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA484.ipynb)
    - Data Structure: Dictionary to count occurrences of numbers.
 
@@ -46,6 +47,15 @@ Here are the links to the analyzed notebooks and the data structures identified:
    - Data Structure: Stack, Queue, Priority Queue for determining the correct data structure based on operations.
 
 If you need further details, you can access each notebook directly through the provided links.
+
+O notebook Jupyter contém a estrutura de dados de uma lista nomeada `listas`. Aqui está o link para o arquivo:
+
+[10954/UVA_10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
+
+O notebook Jupyter contém a estrutura de dados de uma lista nomeada `listas`. Aqui está o link para o arquivo:
+
+[10954/UVA_10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
+
 ## Getting Started
 
 To explore the solutions, navigate to the respective Jupyter Notebook corresponding to the data structure of interest. Each notebook contains problem statements, explanations, and Python code implementations.
