@@ -1,69 +1,50 @@
+<plan>
+    <step>
+        <tool>functions.getfile</tool>
+        <parameters>
+            <path>README.md</path>
+            <repo>Gabriel-Machado-GM/Online-Judge-Solutions-Python</repo>
+        </parameters>
+    </step>
+</plan>Seguindo a sua solicitação, organizei os notebooks Jupyter nas categorias apropriadas. Aqui está uma versão mais embelezada e organizada do dataset:
+
 # Online-Judge-Solutions-Python
 
-This repository contains solutions to various online judge problems implemented in Python. Each Jupyter Notebook (`*.ipynb`) is categorized based on the primary data structure utilized to solve the problems, facilitating easier navigation and understanding.
+Este repositório contém soluções para vários problemas de juízes online implementados em Python. Cada Jupyter Notebook (`*.ipynb`) está categorizado com base na principal estrutura de dados utilizada para resolver os problemas, facilitando a navegação e a compreensão.
 
-## Data Structures
+## Segmented UVA's by the type of 'Data Structures' used in each solution
 
-### Arrays
-- **`arrays_solution.ipynb`**: Solutions involving dynamic and static arrays, handling problems like searching, sorting, and manipulation of array data.
-
-### Linked Lists
-- **`linked_lists_solution.ipynb`**: Implementations of singly and doubly linked lists to solve problems related to list traversal, insertion, and deletion operations.
-
-### Stacks
-- **`stacks_solution.ipynb`**: Solutions that utilize stack data structures for problems like expression evaluation, backtracking algorithms, and parsing tasks.
-
-### Queues
-- **`queues_solution.ipynb`**: Implementations of queue and deque structures to handle problems involving scheduling, buffering, and breadth-first search algorithms.
-
-### Trees
-- **`trees_solution.ipynb`**: Solutions leveraging binary trees, binary search trees, and other tree structures for hierarchical data management and traversal problems.
-
-### Graphs
-- **`graphs_solution.ipynb`**: Implementations of graph data structures, including adjacency lists and matrices, to solve problems related to network traversal, shortest paths, and connectivity.
-
-### Hash Tables
-- **`hash_tables_solution.ipynb`**: Solutions using hash tables for efficient data retrieval, collision handling, and implementing dictionaries or maps.
-
-### Heaps
-- **`heaps_solution.ipynb`**: Implementations of heap data structures to solve priority queue problems, scheduling tasks, and optimizing search operations.
-Here are the links to the analyzed notebooks and the data structures identified:
-
-### Segmented uvas
-
+### Dictionary
 1. [UVA484.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA484.ipynb)
-   - Data Structure: Dictionary to count occurrences of numbers.
+   - Estrutura de Dados: Dicionário para contar ocorrências de números.
 
-2. [UVA1203.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA1203.ipynb)
-   - Data Structure: Min-Heap for managing time-based queries.
+2. [UVA10420.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA10420.ipynb)
+   - Estrutura de Dados: Dicionário para contar o número de mulheres por país.
 
-3. [UVA10420.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA10420.ipynb)
-   - Data Structure: Dictionary to count the number of women by country.
+### Min-Heap
+1. [UVA1203.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA1203.ipynb)
+   - Estrutura de Dados: Min-Heap para gerenciar consultas baseadas no tempo.
 
-4. [UVA11363.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11363.ipynb)
-   - Data Structure: Hash Table for determining if a query string is present in the dictionary.
+### Hash Table
+1. [UVA11363.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11363.ipynb)
+   - Estrutura de Dados: Tabela de Hash para determinar se uma string de consulta está presente no dicionário.
 
-5. [UVA11995.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11995.ipynb)
-   - Data Structure: Stack, Queue, Priority Queue for determining the correct data structure based on operations.
+### Stack, Queue, Priority Queue
+1. [UVA11995.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11995.ipynb)
+   - Estrutura de Dados: Pilha, Fila, Fila de Prioridade para determinar a estrutura de dados correta com base nas operações.
 
-If you need further details, you can access each notebook directly through the provided links.
-
-O notebook Jupyter contém a estrutura de dados de uma lista nomeada `listas`. Aqui está o link para o arquivo:
-
-[10954/UVA_10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
-
-O notebook Jupyter contém a estrutura de dados de uma lista nomeada `listas`. Aqui está o link para o arquivo:
-
-[10954/UVA_10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
+### List
+1. [UVA10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
+   - Estrutura de Dados: Lista para gerenciar somas de números.
 
 ## Getting Started
 
-To explore the solutions, navigate to the respective Jupyter Notebook corresponding to the data structure of interest. Each notebook contains problem statements, explanations, and Python code implementations.
+Para explorar as soluções, navegue até o Jupyter Notebook correspondente à estrutura de dados de interesse. Cada notebook contém enunciados de problemas, explicações e implementações de código Python.
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or additional solutions you'd like to contribute.
+Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request para qualquer melhoria ou solução adicional que você gostaria de contribuir.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
