@@ -46,7 +46,7 @@ To explore the implemented solutions, simply navigate to the Jupyter Notebook co
 
 ## Contributions
 
-While this repository primarily serves as a personal portfolio, contributions and suggestions for improvement are welcome. If you identify potential enhancements or have additional solutions you would like to contribute, please feel free to open an issue or submit a pull request.
+While this repository primarily serves as a personal portfolio, contributions and suggestions for improvement are welcome. If you identify potential enhancements or have additional solutions you would like to contribute, please feel free to open an issue or submit a pull request :)
 
 ## License
 
