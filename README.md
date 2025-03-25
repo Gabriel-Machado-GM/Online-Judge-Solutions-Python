@@ -1,50 +1,53 @@
-<plan>
-    <step>
-        <tool>functions.getfile</tool>
-        <parameters>
-            <path>README.md</path>
-            <repo>Gabriel-Machado-GM/Online-Judge-Solutions-Python</repo>
-        </parameters>
-    </step>
-</plan>Seguindo a sua solicitação, organizei os notebooks Jupyter nas categorias apropriadas. Aqui está uma versão mais embelezada e organizada do dataset:
+# Online Judge Solutions in Python: A Data Structures Focused Portfolio
 
-# Online-Judge-Solutions-Python
+**Welcome!** This repository showcases my solutions to a variety of competitive programming problems from online judges, implemented in Python. Each solution is meticulously organized as a Jupyter Notebook (`*.ipynb`) and categorized based on the primary data structure employed to solve the problem. This structure allows for easy navigation and a focused understanding of how different data structures are applied in practical problem-solving scenarios.
 
-Este repositório contém soluções para vários problemas de juízes online implementados em Python. Cada Jupyter Notebook (`*.ipynb`) está categorizado com base na principal estrutura de dados utilizada para resolver os problemas, facilitando a navegação e a compreensão.
+## Organized by Data Structure
 
-## Segmented UVA's by the type of 'Data Structures' used in each solution
+This repository is segmented according to the core data structure utilized in each solution, providing a clear and educational overview of algorithm design and implementation.
 
 ### Dictionary
-1. [UVA484.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA484.ipynb)
-   - Estrutura de Dados: Dicionário para contar ocorrências de números.
 
-2. [UVA10420.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA10420.ipynb)
-   - Estrutura de Dados: Dicionário para contar o número de mulheres por país.
+1.  [UVA484.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA484.ipynb)
+    * **Data Structure:** Dictionary
+    * **Problem Focus:** Counting the occurrences of numbers.
+
+2.  [UVA10420.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA10420.ipynb)
+    * **Data Structure:** Dictionary
+    * **Problem Focus:** Counting the number of women per country.
 
 ### Min-Heap
-1. [UVA1203.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA1203.ipynb)
-   - Estrutura de Dados: Min-Heap para gerenciar consultas baseadas no tempo.
+
+1.  [UVA1203.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA1203.ipynb)
+    * **Data Structure:** Min-Heap
+    * **Problem Focus:** Managing queries based on time.
 
 ### Hash Table
-1. [UVA11363.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11363.ipynb)
-   - Estrutura de Dados: Tabela de Hash para determinar se uma string de consulta está presente no dicionário.
+
+1.  [UVA11363.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11363.ipynb)
+    * **Data Structure:** Hash Table
+    * **Problem Focus:** Determining if a query string is present in a dictionary.
 
 ### Stack, Queue, Priority Queue
-1. [UVA11995.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11995.ipynb)
-   - Estrutura de Dados: Pilha, Fila, Fila de Prioridade para determinar a estrutura de dados correta com base nas operações.
+
+1.  [UVA11995.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/0184e6cf342b1f34be23275c2339d19615a21ee5/UVA11995.ipynb)
+    * **Data Structures:** Stack, Queue, Priority Queue
+    * **Problem Focus:** Identifying the correct data structure based on a sequence of operations.
 
 ### List
-1. [UVA10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
-   - Estrutura de Dados: Lista para gerenciar somas de números.
 
-## Getting Started
+1.  [UVA10954.ipynb](https://github.com/Gabriel-Machado-GM/Online-Judge-Solutions-Python/blob/24b68ccb0bd1b7765dcc4c062c3df13fd1e0d2c0/10954/UVA_10954.ipynb)
+    * **Data Structure:** List
+    * **Problem Focus:** Managing sums of numbers.
 
-Para explorar as soluções, navegue até o Jupyter Notebook correspondente à estrutura de dados de interesse. Cada notebook contém enunciados de problemas, explicações e implementações de código Python.
+## Navigating the Solutions
 
-## Contributing
+To explore the implemented solutions, simply navigate to the Jupyter Notebook corresponding to the data structure you are interested in. Each notebook contains the problem statement, a detailed explanation of the solution approach, and the complete Python code implementation. This format aims to provide a clear and understandable learning resource.
 
-Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request para qualquer melhoria ou solução adicional que você gostaria de contribuir.
+## Contributions
+
+While this repository primarily serves as a personal portfolio, contributions and suggestions for improvement are welcome. If you identify potential enhancements or have additional solutions you would like to contribute, please feel free to open an issue or submit a pull request.
 
 ## License
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
