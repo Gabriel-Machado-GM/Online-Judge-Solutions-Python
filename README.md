@@ -1,6 +1,6 @@
-# Online Judge Solutions in Python: A Data Structures Focused Portfolio
+# Online Judge Solutions in Python: A Data Structures Focused Portfolio :)
 
-**Welcome!** This repository showcases my solutions to a variety of competitive programming problems from online judges, implemented in Python. Each solution is meticulously organized as a Jupyter Notebook (`*.ipynb`) and categorized based on the primary data structure employed to solve the problem. This structure allows for easy navigation and a focused understanding of how different data structures are applied in practical problem-solving scenarios.
+**Hey, ho, let's go!** This repository showcases my solutions to a variety of competitive programming problems from online judges, implemented in Python. Each solution is meticulously organized as a Jupyter Notebook (`*.ipynb`) and categorized based on the primary data structure employed to solve the problem. This structure allows for easy navigation and a focused understanding of how different data structures are applied in practical problem-solving scenarios.
 
 ## Organized by Data Structure
 
